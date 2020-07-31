@@ -15,9 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![My github stats](https://github-readme-stats.vercel.app/api?username=acolaxianyu&show_icons=true&title_color=1E90FF&text_color=000000&icon_color=1E90FF&bg_color=FFFFFF)]
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=colaxianyu&repo=github-readme-stats)]
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colaxianyu)]
+
+<!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=colaxianyu&show_icons=true&title_color=1E90FF&text_color=000000&icon_color=1E90FF&bg_color=FFFFFF" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=colaxianyu&layout=compact&bg_color=FFFFFF&title_color=1E90FF" />
 </a>
+-->
