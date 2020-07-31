@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<font size="5">尺寸</font>
-
 Unity3d游戏开发学习中,空闲时间喜欢折腾一下逆向工程
 
 以下是我正在处理的事: 
@@ -20,8 +18,6 @@ Unity3d游戏开发学习中,空闲时间喜欢折腾一下逆向工程
 <details>
   <summary>一些个人喜好</summary>
   <br>
-  <font size="2">尺寸</font>
-  <font size=3>尺寸</font>
 
   - 重度云吸猫,希望能养一只自己的猫
   - 厨艺爱好者,喜欢美食
