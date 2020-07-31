@@ -15,20 +15,6 @@ Unity3d游戏开发学习中,空闲时间喜欢折腾一下逆向工程
 - ⚡ Fun fact: ...
 -->
 
-
-<details>
-  <summary>Some other facts about me-e-e</summary>
-  <br>
-
-  - I post random photos and trip snippets at **[VSCO](https://vsco.co/jayehernandez)**. (Look at the Journal's tab!)
-  - My go to jam when coding: musicals. Non-stop. ⭐️
-  - I absolutely adore Eevee, the best Pokemon.
-  
-
-  ![My github stats](https://github-readme-stats.vercel.app/api?username=jayehernandez&show_icons=true)
-  <br><br>
-</details>
-
 <details>
   <summary>一些个人喜好</summary>
   <br>
@@ -38,9 +24,8 @@ Unity3d游戏开发学习中,空闲时间喜欢折腾一下逆向工程
   - 游戏玩家,日常白给
   - 听歌,coding,吃美食,岂不美哉
 
-  ![My github stats](https://github-readme-stats.vercel.app/api?username=colaxianyu&show_icons=true&title_color=1E90FF&text_color=000000&icon_color=1E90FF&bg_color=FFFFFF)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colaxianyu&layout=compact)
   <br><br>
 </details>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colaxianyu&layout=compact)
-
+![My github stats](https://github-readme-stats.vercel.app/api?username=colaxianyu&show_icons=true&title_color=1E90FF&text_color=000000&icon_color=1E90FF&bg_color=FFFFFF)
