@@ -22,8 +22,9 @@ Unity3d游戏开发学习中,空闲时间喜欢折腾一下逆向工程
   - 厨艺爱好者,喜欢美食
   - 游戏玩家,日常白给
   - 听歌,coding,吃美食,岂不美哉
-</details>
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=colaxianyu&show_icons=true&title_color=1E90FF&text_color=000000&icon_color=1E90FF&bg_color=FFFFFF)
+  ![My github stats](https://github-readme-stats.vercel.app/api?username=colaxianyu&show_icons=true&title_color=1E90FF&text_color=000000&icon_color=1E90FF&bg_color=FFFFFF)
+  <br><br>
+</details>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colaxianyu&layout=compact)
