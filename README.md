@@ -1,10 +1,12 @@
 ## Hi there 👋
 
-**Unity3d游戏开发学习中,空闲时间喜欢折腾一下逆向工程**
+**逆向工程学习中**
 
 ### 现在的状态: 
 
-- 考研中 ...
+- 锻炼身体 
+- If you wanna get it right 
+- Gotta put it all on the line 
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
