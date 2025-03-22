@@ -4,9 +4,9 @@
 
 ### 现在的状态: 
 
-- 划水
-- If you wanna get it right 
-- Gotta put it all on the line 
+- 😄 逆向真有意思
+- 🌱 UE5学习ing
+
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
