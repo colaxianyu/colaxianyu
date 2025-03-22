@@ -4,7 +4,7 @@
 
 ### 现在的状态: 
 
-- 锻炼身体 
+- 划水
 - If you wanna get it right 
 - Gotta put it all on the line 
 <!--
@@ -18,14 +18,12 @@
 -->
 
 <details>
-  <summary>一些个人喜好</summary>
+  <summary>爱好</summary>
   <br>
 
-  - 重度云吸猫,希望能养一只自己的猫
-  - 厨艺爱好者,喜欢美食
-  - 游戏玩家,日常白给
-  
-  听歌,coding,吃美食,岂不美哉
+  - 吸猫
+  - 游戏，街霸对不到空
+   
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colaxianyu&layout=compact)
   <br><br>
